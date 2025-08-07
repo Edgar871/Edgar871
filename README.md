@@ -13,7 +13,7 @@
 * 🎓 Bachelor of Applied Science in Informatics Engineering from Politeknik Negeri Jakarta
 * 💻 Passionate about Cloud Computing & Web Development  
 * 🌱 Currently learning AWS Cloud, Linux, and JavaScript  
-* 📄 [View My Resume Website](https://edgar871.github.io/resume_edgar/)  
+* 📄 [View My Resume Website](https://edgar871.github.io)  
 
 ---
 
